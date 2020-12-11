@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ymcastellar" alt="ymcastellar" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@castellaryoyman" target="blank"><img src="https://img.shields.io/twitter/follow/@castellaryoyman?logo=twitter&style=for-the-badge" alt="@castellaryoyman" /></a> </p>
+<p align="left"> <a href="https://twitter.com/castellaryoyman" target="blank"><img src="https://img.shields.io/twitter/follow/castellaryoyman?logo=twitter&style=for-the-badge" alt="castellaryoyman" /></a> </p>
 
 - 🌱 I’m currently learning **React, VueJS, Web desing**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@castellaryoyman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@castellaryoyman" height="30" width="40" /></a>
+<a href="https://twitter.com/castellaryoyman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="castellaryoyman" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yoyman-castellar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yoyman-castellar" height="30" width="40" /></a>
 <a href="https://medium.com/@yoycas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@yoycas" height="30" width="40" /></a>
 </p>
