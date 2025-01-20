@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@yoycas](https://medium.com/@yoycas)
 
-- 📫 How to reach me **yoycas@hotmail.com**
+- 📫 How to reach me **yoymanc@gmail.com** - https://yoymanportfolio.netlify.app/
 
 - ⚡ Fun fact **I play bass and drums :)**
 
